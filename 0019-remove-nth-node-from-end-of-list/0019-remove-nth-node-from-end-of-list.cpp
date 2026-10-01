@@ -17,23 +17,25 @@ public:
        
        
         ListNode* curr = head;
-        int count = 0;
-        while(curr != nullptr){
-            count++;
-            curr = curr->next;
+        ListNode* temp = curr->next;
+      ListNode* next = head;
+      
+        while(n!=0){
+            next = next->next;
+            n--;
         }
-        ListNode dummy(0,head);
-        ListNode* prev = &dummy;
-        curr = head;
-        while(count!=n){
-            curr = curr->next;
-            count--;
-            prev = prev->next;
-        }
-        prev->next = curr->next;
+        if(next == nullptr)
+        return temp;
+
+       while(next->next!=nullptr){
+        next = next->next;
+        temp = temp->next;
+        curr = curr->next;
+       }
+       curr->next = temp->next;
        
       
- return dummy.next;
+ return head;
     }
 
 };
