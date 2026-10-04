@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
