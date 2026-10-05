@@ -4,20 +4,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
