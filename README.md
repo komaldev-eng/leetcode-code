@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/komaldev-eng/leetcode-code/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/komaldev-eng/leetcode-code/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
