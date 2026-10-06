@@ -20,19 +20,24 @@ public:
         len++;
         curr = curr->next;
        } 
-       k = k%len;
+
+        k = k%len;
+        if(k==0){
+            return head;
+        }
+       int n = len - k-1;
        curr = head;
-       while(k>0){
-          curr = head;
-          while(curr->next->next!=nullptr){
-            curr = curr->next;
-          }
-          ListNode* last = curr->next;
-          curr->next = nullptr;
-          last->next = head;
-          head = last;
-          k--;
+       while(n>0){
+         curr = curr->next;
+         n--;
        }
-       return head;
+       ListNode* tail = curr->next;
+       curr->next = nullptr;
+       ListNode* temp = tail;
+       while(temp->next!=nullptr){
+        temp = temp->next;
+       }
+       temp->next = head;
+     return tail;
     }
 };
