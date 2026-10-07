@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0328-odd-even-linked-list) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -102,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
