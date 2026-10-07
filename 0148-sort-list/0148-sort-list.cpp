@@ -10,22 +10,46 @@
  */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        vector<int>ans;
-        ListNode* curr = head;
-        while(curr!=nullptr){
-           ans.push_back(curr->val);
-           curr = curr->next;
-        }
+    ListNode* merge(ListNode* l1,ListNode* l2 ){
+      ListNode dummy(0);
+      ListNode* curr = &dummy;
+      while(l1!=nullptr && l2!=nullptr){
+        if(l1->val<l2->val){
+            curr->next = l1;
+            l1 = l1->next;
 
-        sort(ans.begin(),ans.end());
-        int i = 0;
-        curr = head;
-        while(curr!=nullptr){
-            curr->val = ans[i];
-            i++;
-            curr = curr->next;
         }
-     return head;
+        else{
+            curr->next = l2;
+            l2 = l2->next;
+        }
+        curr = curr->next;
+      }
+      if(l1!= nullptr){
+        curr->next = l1;
+      }
+      else{
+        curr->next = l2;
+      }
+      return dummy.next;
+    }
+    ListNode* sortList(ListNode* head) {
+     ListNode* slow = head;
+     if(head == nullptr || head->next == nullptr){
+       return head;
+     }
+     ListNode* fast = head->next;
+     while(fast!=nullptr && fast->next!=nullptr){
+        slow = slow->next;
+        fast = fast->next->next;
+     }
+     ListNode* second = slow->next;
+     slow->next = nullptr;
+     ListNode* first = sortList(head);
+
+      second = sortList(second);
+     
+
+     return merge(first,second);
     }
 };
