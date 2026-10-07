@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/komaldev-eng/leetcode-code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
