@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/komaldev-eng/leetcode-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0707-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
