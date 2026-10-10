@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/komaldev-eng/leetcode-code/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0143-reorder-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/komaldev-eng/leetcode-code/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/komaldev-eng/leetcode-code/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/komaldev-eng/leetcode-code/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
