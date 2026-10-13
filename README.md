@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1646-get-maximum-in-generated-array](https://github.com/komaldev-eng/leetcode-code/tree/master/1646-get-maximum-in-generated-array) |
+| [2574-left-and-right-sum-differences](https://github.com/komaldev-eng/leetcode-code/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/komaldev-eng/leetcode-code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/komaldev-eng/leetcode-code/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
