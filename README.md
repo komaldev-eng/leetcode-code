@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/komaldev-eng/leetcode-code/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/komaldev-eng/leetcode-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/komaldev-eng/leetcode-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/komaldev-eng/leetcode-code/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/komaldev-eng/leetcode-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/komaldev-eng/leetcode-code/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
