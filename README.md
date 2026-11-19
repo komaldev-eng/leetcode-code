@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/komaldev-eng/leetcode-code/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/komaldev-eng/leetcode-code/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
