@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/komaldev-eng/leetcode-code/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0202-happy-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/komaldev-eng/leetcode-code/tree/master/0029-divide-two-integers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1646-get-maximum-in-generated-array](https://github.com/komaldev-eng/leetcode-code/tree/master/1646-get-maximum-in-generated-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2574-left-and-right-sum-differences](https://github.com/komaldev-eng/leetcode-code/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
@@ -207,8 +210,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
