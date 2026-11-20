@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/komaldev-eng/leetcode-code/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/komaldev-eng/leetcode-code/tree/master/0046-permutations) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/komaldev-eng/leetcode-code/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/komaldev-eng/leetcode-code/tree/master/0046-permutations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
