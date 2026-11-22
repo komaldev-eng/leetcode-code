@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/komaldev-eng/leetcode-code/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/komaldev-eng/leetcode-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/komaldev-eng/leetcode-code/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
