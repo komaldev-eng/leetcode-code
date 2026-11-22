@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/komaldev-eng/leetcode-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/komaldev-eng/leetcode-code/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/komaldev-eng/leetcode-code/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/komaldev-eng/leetcode-code/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/komaldev-eng/leetcode-code/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/komaldev-eng/leetcode-code/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/komaldev-eng/leetcode-code/tree/master/0386-lexicographical-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
