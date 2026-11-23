@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/komaldev-eng/leetcode-code/tree/master/0115-distinct-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/komaldev-eng/leetcode-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/komaldev-eng/leetcode-code/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/komaldev-eng/leetcode-code/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0509-fibonacci-number) |
