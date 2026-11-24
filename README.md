@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/komaldev-eng/leetcode-code/tree/master/0115-distinct-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/komaldev-eng/leetcode-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/1143-longest-common-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
