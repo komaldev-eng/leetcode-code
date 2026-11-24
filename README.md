@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/komaldev-eng/leetcode-code/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/komaldev-eng/leetcode-code/tree/master/0115-distinct-subsequences) |
+| [0257-binary-tree-paths](https://github.com/komaldev-eng/leetcode-code/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/komaldev-eng/leetcode-code/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/komaldev-eng/leetcode-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/komaldev-eng/leetcode-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/komaldev-eng/leetcode-code/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/komaldev-eng/leetcode-code/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0572-subtree-of-another-tree) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/komaldev-eng/leetcode-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0572-subtree-of-another-tree) |
 ## Array
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/komaldev-eng/leetcode-code/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/komaldev-eng/leetcode-code/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/komaldev-eng/leetcode-code/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/komaldev-eng/leetcode-code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
