@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/komaldev-eng/leetcode-code/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0572-subtree-of-another-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -298,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0300-longest-increasing-subsequence) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
