@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/komaldev-eng/leetcode-code/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/komaldev-eng/leetcode-code/tree/master/0525-contiguous-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/komaldev-eng/leetcode-code/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/komaldev-eng/leetcode-code/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/komaldev-eng/leetcode-code/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0516-longest-palindromic-subsequence) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## DP on Trees
 |  |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
