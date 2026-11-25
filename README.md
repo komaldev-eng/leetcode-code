@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/komaldev-eng/leetcode-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/komaldev-eng/leetcode-code/tree/master/0994-rotting-oranges) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1646-get-maximum-in-generated-array](https://github.com/komaldev-eng/leetcode-code/tree/master/1646-get-maximum-in-generated-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/komaldev-eng/leetcode-code/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/komaldev-eng/leetcode-code/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/komaldev-eng/leetcode-code/tree/master/0994-rotting-oranges) |
 ## Knapsack Problem
 |  |
 | ------- |
