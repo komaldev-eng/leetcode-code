@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/komaldev-eng/leetcode-code/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0572-subtree-of-another-tree) |
+| [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/komaldev-eng/leetcode-code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0226-invert-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/komaldev-eng/leetcode-code/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
@@ -309,10 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Lifting
 |  |
@@ -322,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/komaldev-eng/leetcode-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
