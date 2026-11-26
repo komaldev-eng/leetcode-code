@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/komaldev-eng/leetcode-code/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/komaldev-eng/leetcode-code/tree/master/0997-find-the-town-judge) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/komaldev-eng/leetcode-code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1646-get-maximum-in-generated-array](https://github.com/komaldev-eng/leetcode-code/tree/master/1646-get-maximum-in-generated-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/komaldev-eng/leetcode-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/komaldev-eng/leetcode-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/komaldev-eng/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/komaldev-eng/leetcode-code/tree/master/0997-find-the-town-judge) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/komaldev-eng/leetcode-code/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
+| [0997-find-the-town-judge](https://github.com/komaldev-eng/leetcode-code/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Lifting
 |  |
