@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/komaldev-eng/leetcode-code/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/komaldev-eng/leetcode-code/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Lifting
 |  |
