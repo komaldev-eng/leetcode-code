@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/komaldev-eng/leetcode-code/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/komaldev-eng/leetcode-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/komaldev-eng/leetcode-code/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/komaldev-eng/leetcode-code/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/komaldev-eng/leetcode-code/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/komaldev-eng/leetcode-code/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komaldev-eng/leetcode-code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0990-satisfiability-of-equality-equations](https://github.com/komaldev-eng/leetcode-code/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/komaldev-eng/leetcode-code/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/komaldev-eng/leetcode-code/tree/master/0997-find-the-town-judge) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/komaldev-eng/leetcode-code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -326,12 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/komaldev-eng/leetcode-code/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/komaldev-eng/leetcode-code/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/komaldev-eng/leetcode-code/tree/master/0990-satisfiability-of-equality-equations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/komaldev-eng/leetcode-code/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/komaldev-eng/leetcode-code/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/komaldev-eng/leetcode-code/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/komaldev-eng/leetcode-code/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/komaldev-eng/leetcode-code/tree/master/1971-find-if-path-exists-in-graph) |
